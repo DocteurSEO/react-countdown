@@ -12,4 +12,4 @@ live Exemple : https://trusting-ritchie-c6942d.netlify.app/
 
 ` - componentDidMount`
 
-` - Custom prototype ``
+` - Custom prototype `
