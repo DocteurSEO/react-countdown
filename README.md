@@ -1,4 +1,4 @@
-## Countdown whit react 
+## Countdown with react 
 
 live Exemple : https://trusting-ritchie-c6942d.netlify.app/
 
